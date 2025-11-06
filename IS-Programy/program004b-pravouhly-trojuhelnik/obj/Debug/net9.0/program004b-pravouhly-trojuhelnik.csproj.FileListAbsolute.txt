@@ -1,0 +1,15 @@
+D:\Škola\TUL\C#\github-av-is-2025-sk2\IS-Programy\program004b-pravouhly-trojuhelnik\bin\Debug\net9.0\program004b-pravouhly-trojuhelnik.exe
+D:\Škola\TUL\C#\github-av-is-2025-sk2\IS-Programy\program004b-pravouhly-trojuhelnik\bin\Debug\net9.0\program004b-pravouhly-trojuhelnik.deps.json
+D:\Škola\TUL\C#\github-av-is-2025-sk2\IS-Programy\program004b-pravouhly-trojuhelnik\bin\Debug\net9.0\program004b-pravouhly-trojuhelnik.runtimeconfig.json
+D:\Škola\TUL\C#\github-av-is-2025-sk2\IS-Programy\program004b-pravouhly-trojuhelnik\bin\Debug\net9.0\program004b-pravouhly-trojuhelnik.dll
+D:\Škola\TUL\C#\github-av-is-2025-sk2\IS-Programy\program004b-pravouhly-trojuhelnik\bin\Debug\net9.0\program004b-pravouhly-trojuhelnik.pdb
+D:\Škola\TUL\C#\github-av-is-2025-sk2\IS-Programy\program004b-pravouhly-trojuhelnik\obj\Debug\net9.0\program004b-pravouhly-trojuhelnik.GeneratedMSBuildEditorConfig.editorconfig
+D:\Škola\TUL\C#\github-av-is-2025-sk2\IS-Programy\program004b-pravouhly-trojuhelnik\obj\Debug\net9.0\program004b-pravouhly-trojuhelnik.AssemblyInfoInputs.cache
+D:\Škola\TUL\C#\github-av-is-2025-sk2\IS-Programy\program004b-pravouhly-trojuhelnik\obj\Debug\net9.0\program004b-pravouhly-trojuhelnik.AssemblyInfo.cs
+D:\Škola\TUL\C#\github-av-is-2025-sk2\IS-Programy\program004b-pravouhly-trojuhelnik\obj\Debug\net9.0\program004b-pravouhly-trojuhelnik.csproj.CoreCompileInputs.cache
+D:\Škola\TUL\C#\github-av-is-2025-sk2\IS-Programy\program004b-pravouhly-trojuhelnik\obj\Debug\net9.0\program004b-pravouhly-trojuhelnik.sourcelink.json
+D:\Škola\TUL\C#\github-av-is-2025-sk2\IS-Programy\program004b-pravouhly-trojuhelnik\obj\Debug\net9.0\program004b-pravouhly-trojuhelnik.dll
+D:\Škola\TUL\C#\github-av-is-2025-sk2\IS-Programy\program004b-pravouhly-trojuhelnik\obj\Debug\net9.0\refint\program004b-pravouhly-trojuhelnik.dll
+D:\Škola\TUL\C#\github-av-is-2025-sk2\IS-Programy\program004b-pravouhly-trojuhelnik\obj\Debug\net9.0\program004b-pravouhly-trojuhelnik.pdb
+D:\Škola\TUL\C#\github-av-is-2025-sk2\IS-Programy\program004b-pravouhly-trojuhelnik\obj\Debug\net9.0\program004b-pravouhly-trojuhelnik.genruntimeconfig.cache
+D:\Škola\TUL\C#\github-av-is-2025-sk2\IS-Programy\program004b-pravouhly-trojuhelnik\obj\Debug\net9.0\ref\program004b-pravouhly-trojuhelnik.dll
