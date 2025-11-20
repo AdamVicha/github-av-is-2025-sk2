@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("program001-vypis-rady")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("program007a-bubble-sort")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2814a08367b208e8b37df44abe6bce7db479397")]
-[assembly: System.Reflection.AssemblyProductAttribute("program001-vypis-rady")]
-[assembly: System.Reflection.AssemblyTitleAttribute("program001-vypis-rady")]
+[assembly: System.Reflection.AssemblyProductAttribute("program007a-bubble-sort")]
+[assembly: System.Reflection.AssemblyTitleAttribute("program007a-bubble-sort")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Vygenerované třídou WriteCodeFragment nástroje MSBuild
