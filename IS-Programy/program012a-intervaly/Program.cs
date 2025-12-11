@@ -70,5 +70,4 @@
             Console.WriteLine();
             Console.WriteLine("Pro opakování programu stiskněte klávesu A");
             again = Console.ReadLine();
-
         }
