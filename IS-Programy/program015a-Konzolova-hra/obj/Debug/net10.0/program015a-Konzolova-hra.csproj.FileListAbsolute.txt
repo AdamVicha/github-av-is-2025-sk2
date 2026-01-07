@@ -1,0 +1,15 @@
+D:\Škola\TUL\C#\github-av-is-2025-sk2\IS-Programy\program015a-Konzolova-hra\bin\Debug\net10.0\program015a-Konzolova-hra.exe
+D:\Škola\TUL\C#\github-av-is-2025-sk2\IS-Programy\program015a-Konzolova-hra\bin\Debug\net10.0\program015a-Konzolova-hra.deps.json
+D:\Škola\TUL\C#\github-av-is-2025-sk2\IS-Programy\program015a-Konzolova-hra\bin\Debug\net10.0\program015a-Konzolova-hra.runtimeconfig.json
+D:\Škola\TUL\C#\github-av-is-2025-sk2\IS-Programy\program015a-Konzolova-hra\bin\Debug\net10.0\program015a-Konzolova-hra.dll
+D:\Škola\TUL\C#\github-av-is-2025-sk2\IS-Programy\program015a-Konzolova-hra\bin\Debug\net10.0\program015a-Konzolova-hra.pdb
+D:\Škola\TUL\C#\github-av-is-2025-sk2\IS-Programy\program015a-Konzolova-hra\obj\Debug\net10.0\program015a-Konzolova-hra.GeneratedMSBuildEditorConfig.editorconfig
+D:\Škola\TUL\C#\github-av-is-2025-sk2\IS-Programy\program015a-Konzolova-hra\obj\Debug\net10.0\program015a-Konzolova-hra.AssemblyInfoInputs.cache
+D:\Škola\TUL\C#\github-av-is-2025-sk2\IS-Programy\program015a-Konzolova-hra\obj\Debug\net10.0\program015a-Konzolova-hra.AssemblyInfo.cs
+D:\Škola\TUL\C#\github-av-is-2025-sk2\IS-Programy\program015a-Konzolova-hra\obj\Debug\net10.0\program015a-Konzolova-hra.csproj.CoreCompileInputs.cache
+D:\Škola\TUL\C#\github-av-is-2025-sk2\IS-Programy\program015a-Konzolova-hra\obj\Debug\net10.0\program015a-Konzolova-hra.sourcelink.json
+D:\Škola\TUL\C#\github-av-is-2025-sk2\IS-Programy\program015a-Konzolova-hra\obj\Debug\net10.0\program015a-Konzolova-hra.dll
+D:\Škola\TUL\C#\github-av-is-2025-sk2\IS-Programy\program015a-Konzolova-hra\obj\Debug\net10.0\refint\program015a-Konzolova-hra.dll
+D:\Škola\TUL\C#\github-av-is-2025-sk2\IS-Programy\program015a-Konzolova-hra\obj\Debug\net10.0\program015a-Konzolova-hra.pdb
+D:\Škola\TUL\C#\github-av-is-2025-sk2\IS-Programy\program015a-Konzolova-hra\obj\Debug\net10.0\program015a-Konzolova-hra.genruntimeconfig.cache
+D:\Škola\TUL\C#\github-av-is-2025-sk2\IS-Programy\program015a-Konzolova-hra\obj\Debug\net10.0\ref\program015a-Konzolova-hra.dll

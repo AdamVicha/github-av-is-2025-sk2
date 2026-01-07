@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "AhLX6TAdVxM=",
+  "dgSpecHash": "QT/j/AM5CNA=",
   "success": true,
-  "projectFilePath": "C:\\aaa\\IS-2025-sk2\\github-av-is-2025-sk2\\IS-Programy\\program001-vypis-rady\\program001-vypis-rady.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Škola\\TUL\\C#\\github-av-is-2025-sk2\\IS-Programy\\program001-vypis-rady\\program001-vypis-rady.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pepda\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.11\\microsoft.netcore.app.ref.9.0.11.nupkg.sha512",
+    "C:\\Users\\pepda\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.11\\microsoft.windowsdesktop.app.ref.9.0.11.nupkg.sha512",
+    "C:\\Users\\pepda\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.11\\microsoft.aspnetcore.app.ref.9.0.11.nupkg.sha512",
+    "C:\\Users\\pepda\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.11\\microsoft.netcore.app.host.win-x64.9.0.11.nupkg.sha512"
+  ],
   "logs": []
 }

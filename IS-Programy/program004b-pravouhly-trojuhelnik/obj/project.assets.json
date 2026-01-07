@@ -8,24 +8,26 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Uzivatel\\.nuget\\packages\\": {}
+    "C:\\Users\\pepda\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\aaa\\IS-2025-sk2\\github-av-is-2025-sk2\\IS-Programy\\program004b-pravouhly-trojuhelnik\\program004b-pravouhly-trojuhelnik.csproj",
+      "projectUniqueName": "D:\\Škola\\TUL\\C#\\github-av-is-2025-sk2\\IS-Programy\\program004b-pravouhly-trojuhelnik\\program004b-pravouhly-trojuhelnik.csproj",
       "projectName": "program004b-pravouhly-trojuhelnik",
-      "projectPath": "C:\\aaa\\IS-2025-sk2\\github-av-is-2025-sk2\\IS-Programy\\program004b-pravouhly-trojuhelnik\\program004b-pravouhly-trojuhelnik.csproj",
-      "packagesPath": "C:\\Users\\Uzivatel\\.nuget\\packages\\",
-      "outputPath": "C:\\aaa\\IS-2025-sk2\\github-av-is-2025-sk2\\IS-Programy\\program004b-pravouhly-trojuhelnik\\obj\\",
+      "projectPath": "D:\\Škola\\TUL\\C#\\github-av-is-2025-sk2\\IS-Programy\\program004b-pravouhly-trojuhelnik\\program004b-pravouhly-trojuhelnik.csproj",
+      "packagesPath": "C:\\Users\\pepda\\.nuget\\packages\\",
+      "outputPath": "D:\\Škola\\TUL\\C#\\github-av-is-2025-sk2\\IS-Programy\\program004b-pravouhly-trojuhelnik\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Uzivatel\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\pepda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -44,7 +46,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.300"
+      "SdkAnalysisLevel": "10.0.100"
     },
     "frameworks": {
       "net9.0": {
@@ -60,12 +62,30 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[9.0.11, 9.0.11]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[9.0.11, 9.0.11]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[9.0.11, 9.0.11]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[9.0.11, 9.0.11]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
